@@ -1,1 +1,1 @@
-
+This program allows user to input a text file or type in a string to change all values into uppercase. 
